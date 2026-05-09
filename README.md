@@ -5,3 +5,11 @@ Integrantes:
 -Estefany German  
 -Vanessa Terán  
 -Vanesa Naranjo  
+# Objetivo  
+Objetivo
+1. Introducción
+2. Metodología
+3. Resultados
+4. Discusión
+5. Conclusiones  
+6. Referencias bibliográficas  
