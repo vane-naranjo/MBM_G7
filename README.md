@@ -8,6 +8,7 @@ Integrantes:
 ## Objetivo  
 Objetivo
 ## 1. Introducción
+La microbiota intestinal cumple funciones importantes en metabolismo, inmunidad y salud humana. Estudios recientes han relacionado alteraciones en la microbiota con obesidad y enfermedades metabólicas.
 ## 2. Metodología
 ## 3. Resultados
 ## 4. Discusión
