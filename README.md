@@ -9,6 +9,7 @@ Integrantes:
 Objetivo  
 Comparar la microbiota intestinal entre individuos obesos y normopeso mediante análisis de secuenciación 16S.
 ## 1. Introducción
+introduccion
 ## 2. Metodología
 ## 3. Resultados
 ## 4. Discusión
