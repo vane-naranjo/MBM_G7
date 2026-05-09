@@ -12,6 +12,8 @@ Comparar la microbiota intestinal entre individuos obesos y normopeso mediante a
 ## 2. Metodología  
 ### Obtención de datos  
 La datos se obtendrán a través de bases de datos públicas del NCBI de la secuenciación de la subunidad 16S de un individuo con normopeso y un individuo con sobrepeso.  
+### Almacenamiento de la información  
+Se utilizará la palataforma Galaxy para el procesamiento, análisis y visualización de los datos.
 ## 3. Resultados
 ## 4. Discusión
 ## 5. Conclusiones  
