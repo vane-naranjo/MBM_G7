@@ -6,7 +6,8 @@ Integrantes:
 -Vanessa Terán  
 -Vanesa Naranjo  
 ## Objetivo  
-Objetivo
+Objetivo  
+Comparar la microbiota intestinal entre individuos obesos y normopeso mediante análisis de secuenciación 16S.
 ## 1. Introducción
 ## 2. Metodología
 ## 3. Resultados
