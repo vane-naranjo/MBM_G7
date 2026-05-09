@@ -1,7 +1,7 @@
 # MBM_G7
 GRUPO DE TRABAJO PROYECTO FINAL  
 Integrantes:  
--Dilan Ron  
+-Dylan Ron  
 -Estefany German  
 -Vanessa Terán  
 -Vanesa Naranjo  
