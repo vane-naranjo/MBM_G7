@@ -25,7 +25,10 @@ Las lecturas serán filtradas y limpiadas para eliminar secuencias de baja calid
 ## 3. Resultados
 ## 4. Discusión
 ## 5. Conclusiones  
-## 6. Referencias bibliográficas 
+## 6. LINK TUTORIAL USADO  
+https://training.galaxyproject.org/training-material/topics/microbiome/tutorials/nanopore-16S-metagenomics/tutorial.html
+
+## 7. Referencias bibliográficas 
 Handelsman, J. (2004). Metagenomics: Application of genomics to uncultured microorganisms. Microbiology and Molecular Biology Reviews, 68(4), 669–685. https://doi.org/10.1128/MMBR.68.4.669-685.2004  
 
 Turnbaugh, P. J., Hamady, M., Yatsunenko, T., Cantarel, B. L., Duncan, A., Ley, R. E., Sogin, M. L., Jones, W. J., Roe, B. A., Affourtit, J. P., Egholm, M., Henrissat, B., Heath, A. C., Knight, R., & Gordon, J. I. (2009). A core gut microbiome in obese and lean twins. Nature, 457(7228), 480–484. https://doi.org/10.1038/nature07540   
