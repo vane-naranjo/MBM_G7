@@ -17,6 +17,10 @@ Se utilizará la palataforma Galaxy para el procesamiento, análisis y visualiza
 Las secuencias obtenidas serán evaluadas mediante FastQC para verificar parámetros de calidad como longitud de lecturas, contenido GC y presencia de adaptadores.   
 ### 3. Procesamiento de secuencias  
 Las lecturas serán filtradas y limpiadas para eliminar secuencias de baja calidad y posibles contaminantes utilizando herramientas disponibles en Galaxy como Cutadapt o NanoFilt.
+### 4. Comparación de microbiota  
+Se comparará la composición bacteriana entre el individuo normopeso y el individuo con sobrepeso, evaluando diferencias en abundancia y diversidad microbiana.
+### 5. Visualización e interpretación biológica  
+Los resultados serán representados mediante gráficos y herramientas de visualización taxonómica. Finalmente, se realizará una interpretación biológica de las diferencias observadas en la microbiota intestinal.
 ## 3. Resultados
 ## 4. Discusión
 ## 5. Conclusiones  
