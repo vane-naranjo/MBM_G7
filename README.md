@@ -25,9 +25,10 @@ Las lecturas serán filtradas y limpiadas para eliminar secuencias de baja calid
 ## 3. Resultados
 ## 4. Discusión
 ## 5. Conclusiones  
-## 6. Referencias bibliográficas  
 
-Handelsman, J. (2004). Metagenomics: Application of genomics to uncultured microorganisms. Microbiology and Molecular Biology Reviews, 68(4), 669–685. https://doi.org/10.1128/MMBR.68.4.669-685.2004  
+## 6. Link de tutorial 
+
+https://training.galaxyproject.org/training-material/topics/microbiome/tutorials/nanopore-16S-metagenomics/tutorial.html  
 
 ## 7. Referencias bibliográficas 
 Ley, R. E., Turnbaugh, P. J., Klein, S., & Gordon, J. I. (2006). Microbial ecology: Human gut microbes associated with obesity. Nature, 444(7122), 1022–1023. https://doi.org/10.1038/4441022a
