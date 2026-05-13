@@ -21,7 +21,7 @@ La datos se obtendrán a través de bases de datos públicas del NCBI de la secu
 Se utilizará la palataforma Galaxy para el procesamiento, análisis y visualización de los datos.
 Las secuencias obtenidas serán evaluadas mediante FastQC para verificar parámetros de calidad como longitud de lecturas, contenido GC y presencia de adaptadores.   
 ### 3. Procesamiento de secuencias  
-Las lecturas serán filtradas y limpiadas para eliminar secuencias de baja calidad y posibles contaminantes utilizando herramientas disponibles en Galaxy como Cutadapt o NanoFilt.
+Las lecturas serán filtradas y limpiadas para eliminar secuencias de baja calidad y posibles contaminantes utilizando herramientas disponibles en Galaxy como FASTQC, MULTIQC, FASTP.
 ## 3. Resultados
 ## 4. Discusión
 ## 5. Conclusiones  
@@ -29,6 +29,12 @@ Las lecturas serán filtradas y limpiadas para eliminar secuencias de baja calid
 
 Handelsman, J. (2004). Metagenomics: Application of genomics to uncultured microorganisms. Microbiology and Molecular Biology Reviews, 68(4), 669–685. https://doi.org/10.1128/MMBR.68.4.669-685.2004  
 
+## 7. Referencias bibliográficas 
+Ley, R. E., Turnbaugh, P. J., Klein, S., & Gordon, J. I. (2006). Microbial ecology: Human gut microbes associated with obesity. Nature, 444(7122), 1022–1023. https://doi.org/10.1038/4441022a
+Qin, J., Li, R., Raes, J., Arumugam, M., Burgdorf, K. S., Manichanh, C., et al. (2010). A human gut microbial gene catalogue established by metagenomic sequencing. Nature, 464(7285), 59–65. https://doi.org/10.1038/nature08821
+Turnbaugh, P. J., Ley, R. E., Mahowald, M. A., Magrini, V., Mardis, E. R., & Gordon, J. I. (2006). An obesity-associated gut microbiome with increased capacity for energy harvest. Nature, 444(7122), 1027–1031. https://doi.org/10.1038/nature05414
+World Health Organization. (2024). Obesity and overweight. https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight
+Handelsman, J. (2004). Metagenomics: Application of genomics to uncultured microorganisms. Microbiology and Molecular Biology Reviews, 68(4), 669–685. https://doi.org/10.1128/MMBR.68.4.669-685.2004  
 Turnbaugh, P. J., Hamady, M., Yatsunenko, T., Cantarel, B. L., Duncan, A., Ley, R. E., Sogin, M. L., Jones, W. J., Roe, B. A., Affourtit, J. P., Egholm, M., Henrissat, B., Heath, A. C., Knight, R., & Gordon, J. I. (2009). A core gut microbiome in obese and lean twins. Nature, 457(7228), 480–484. https://doi.org/10.1038/nature07540   
 
 Janda, J. M., & Abbott, S. L. (2007). 16S rRNA gene sequencing for bacterial identification in the diagnostic laboratory: Pluses, perils, and pitfalls. Journal of Clinical Microbiology, 45(9), 2761–2764. https://doi.org/10.1128/JCM.01228-07  
