@@ -24,7 +24,7 @@ La datos se obtendrán a través de bases de datos públicas del NCBI de la secu
 Se utilizará la palataforma Galaxy para el procesamiento, análisis y visualización de los datos.
 Las secuencias obtenidas serán evaluadas mediante FastQC para verificar parámetros de calidad como longitud de lecturas, contenido GC y presencia de adaptadores.   
 ### 3. Procesamiento de secuencias  
-Las lecturas serán filtradas y limpiadas para eliminar secuencias de baja calidad y posibles contaminantes utilizando herramientas disponibles en Galaxy como Cutadapt o NanoFilt.
+Las lecturas serán filtradas y limpiadas para eliminar secuencias de baja calidad y posibles contaminantes utilizando herramientas disponibles en Galaxy como FASTQC, MULTIQC, FASTP.
 ## 3. Resultados
 ## 4. Discusión
 ## 5. Conclusiones  
