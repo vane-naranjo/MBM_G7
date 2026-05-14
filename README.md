@@ -41,22 +41,22 @@ En las Figuras presentadas a continuación  se muestran los principales resultad
 
 <img width="486" height="276" alt="image" src="https://github.com/user-attachments/assets/ecc5cd59-f3b9-4267-ab91-05849183a8d9" />    
 
-Figura 4. Estadísticas bàsicas FastQC_Individuo obeso   
+Figura 1. Estadísticas bàsicas FastQC_Individuo obeso   
 
 
 
 <img width="531" height="349" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/79037fca-80d5-4f1f-a1f3-711a0fceb07c" />  
 
-Figura 5. Análisis de calidad de la secuencia de bases_Individuo obeso  
+Figura 2. Análisis de calidad de la secuencia de bases_Individuo obeso  
 
 <img width="464" height="269" alt="image" src="https://github.com/user-attachments/assets/722fcdd5-0127-479b-9f5d-c8a7c79320ad" />  
 
 
-Figura 6. Calidad por base de las secuencias evaluadas mediante FastQC_Contenido por secuencia de bases   
+Figura 3. Calidad por base de las secuencias evaluadas mediante FastQC_Contenido por secuencia de bases   
 
 <img width="538" height="278" alt="image" src="https://github.com/user-attachments/assets/78e1bff4-04f6-4b5b-8ff1-033bf6c6ade7" />  
 
-Figura 7. MultiQC con datos filtrados_individuo obeso 
+Figura 4. MultiQC con datos filtrados_individuo obeso 
 
 
 En las Figuras presentadas a continuación  se muestran los principales resultados obtenios despuès del análisis FASTQC, MultiQc y fastp obtenidas para la secuencia 16s del individuo normopeso.  
@@ -65,24 +65,24 @@ En las Figuras presentadas a continuación  se muestran los principales resultad
 <img width="292" height="199" alt="image" src="https://github.com/user-attachments/assets/c4663767-8193-4696-a9c0-14ddc316a75b" />
 
 
-Figura 8. Estadísticas bàsicas FastQC_Individuo normopeso
+Figura 5. Estadísticas bàsicas FastQC_Individuo normopeso
 
 
 <img width="487" height="289" alt="image" src="https://github.com/user-attachments/assets/fccb3345-b480-426a-8692-d60ba92bb21f" />
 
 
-Figura 9. Análisis de calidad de la secuencia de bases_Individuo normopeso 
+Figura 6. Análisis de calidad de la secuencia de bases_Individuo normopeso 
 
 
 <img width="1236" height="692" alt="image" src="https://github.com/user-attachments/assets/a313b2e3-85b8-4800-a2f3-23d8ceb6834d" />
 
 
-Figura 10. Calidad por base de las secuencias evaluadas mediante FastQC_Contenido por secuencia de bases   
+Figura 7. Calidad por base de las secuencias evaluadas mediante FastQC_Contenido por secuencia de bases   
 
 
 <img width="1648" height="1042" alt="image" src="https://github.com/user-attachments/assets/295876e0-ac96-47f9-a99d-9e968d7fc41d" />
 
-Figura 11. MultiQC con datos filtrados_individuo normopeso
+Figura 8. MultiQC con datos filtrados_individuo normopeso
 
 ## 4. Discusión 
 
