@@ -38,8 +38,16 @@ Figura 4. Estadísticas bàsicas FastQC_Individuo obeso
 
 
 
-<img width="531" height="349" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/79037fca-80d5-4f1f-a1f3-711a0fceb07c" />  
+<img width="531" height="349" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/79037fca-80d5-4f1f-a1f3-711a0fceb07c" /> 
 Figura 5. Análisis Pher secuencia_Individuo obeso  
+
+<img width="464" height="269" alt="image" src="https://github.com/user-attachments/assets/722fcdd5-0127-479b-9f5d-c8a7c79320ad" />  
+
+Figura 6. Calidad por base de las secuencias evaluadas mediante FastQC_Contenido por secuencia de bases   
+
+<img width="538" height="278" alt="image" src="https://github.com/user-attachments/assets/78e1bff4-04f6-4b5b-8ff1-033bf6c6ade7" />
+Figura 7. MultiQC con datos filtrados_individuo obeso 
+
 
 
 
