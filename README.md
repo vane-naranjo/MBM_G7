@@ -30,10 +30,17 @@ Las lecturas serán filtradas y limpiadas para eliminar secuencias de baja calid
 
 
 
-Individduo obeso:  
+Individuo obeso:  
 
-En la Figura 5 se presentan las estadísticas básicas FASTQC obtenidas para la secuencia 16s del individuo obeso.
-<img width="486" height="276" alt="image" src="https://github.com/user-attachments/assets/ecc5cd59-f3b9-4267-ab91-05849183a8d9" />
+En las Figuras presentadas a continuación  se muestran los principales resultados obtenios despuès del análisis FASTQC, MultiQc y fastp obtenidas para la secuencia 16s del individuo obeso.
+<img width="486" height="276" alt="image" src="https://github.com/user-attachments/assets/ecc5cd59-f3b9-4267-ab91-05849183a8d9" />  
+Figura 4. Estadísticas bàsicas FastQC_Individuo obeso   
+
+
+
+<img width="531" height="349" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/79037fca-80d5-4f1f-a1f3-711a0fceb07c" />
+Figura 5. Análisis Pher secuencia_Individuo obeso  
+
 
 
 ## 4. Discusión
