@@ -16,7 +16,7 @@ datos públicas del NCBI en formato FASTQ. La secuencia del individuo sano: SRR3
 
 :bookmark: 1
 
-### Obntención de los datos  
+### Obtención de los datos  
 Decargar la secuencia SRR37389193.fastaq.gz
 ---
 ### Creación del repostorio
