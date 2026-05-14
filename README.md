@@ -38,12 +38,22 @@ Figura 4. Estadísticas bàsicas FastQC_Individuo obeso
 
 
 
-<img width="531" height="349" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/79037fca-80d5-4f1f-a1f3-711a0fceb07c" />
+<img width="531" height="349" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/79037fca-80d5-4f1f-a1f3-711a0fceb07c" />  
 Figura 5. Análisis Pher secuencia_Individuo obeso  
 
 
 
-## 4. Discusión
+## 4. Discusión 
+
+El análisis preliminar realizado sobre las muestras SRR37389193 y SRR25916244, tanto para el individuo sano com opara el obeso mediante FastQC y MultiQC mostró que las secuencias presentan una calidad alta y estable a lo largo de las lecturas, con valores Phred cercanos a 30 y una longitud promedio aproximada de 301 pb y 149.7 Mbp. Además, el contenido GC se mantuvo en 51% en ambos casos,, valor esperado para comunidades bacterianas intestinales analizadas mediante secuenciación 16S.  El uso de secuencias 16S permite utilizar cebadores universales ya que son regiones conservadas, por lo que funcionan como marcadores moleculares para la identificación de especies bacterianas.  
+
+Al analizar los resultados de análisis de calidad para las secuencias tanto del individuo normopeso como del individuo obeso  vemos que la calidad fue alta y tras el uso de los filtros no se quitaron gran cantidad de bases, esto es característico del comportamiento de lasecuencia 16s. Sin embargo,  aunque ambas muestras mostraron perfiles de calidad semejantes, esto no implica que posean exactamente la misma microbiota intestinal, ya que el análisis de calidad únicamente evalúa características técnicas de la secuenciación y no la composición taxonómica de los microorganismos presentes, porque no es posible concluir con exactitud si existe una diferencia entre la microbiota de ambos individuos.  
+
+Biológicamente, estos resultados indican que las muestras poseen una adecuada calidad para continuar con análisis posteriores de microbiota intestinal y clasificación taxonómica. La estabilidad de la calidad y la uniformidad en la longitud de las secuencias sugieren que el proceso de secuenciación fue exitoso y que los datos son confiables para identificar comunidades bacterianas presentes en el individuo sano. Los resultados obtenidos determinan un perfil de referencia de un individuo sano para la identificación de alteraciones en la microbiota en individuos que presentan obesidad, una vez realizado el perfil taxonómico de modo que sea posible identificar desviaciones de filos como Bacteroidetes y Firmicutes, que son las poblaciones predominantes en el intestino del ser humano.
+
+
+
+
 ## 5. Conclusiones  
 
 ## 6. Link de tutorial 
