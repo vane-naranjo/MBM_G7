@@ -32,20 +32,25 @@ Las lecturas serán filtradas y limpiadas para eliminar secuencias de baja calid
 
 Individuo obeso:  
 
-En las Figuras presentadas a continuación  se muestran los principales resultados obtenios despuès del análisis FASTQC, MultiQc y fastp obtenidas para la secuencia 16s del individuo obeso.
-<img width="486" height="276" alt="image" src="https://github.com/user-attachments/assets/ecc5cd59-f3b9-4267-ab91-05849183a8d9" />  
+En las Figuras presentadas a continuación  se muestran los principales resultados obtenios despuès del análisis FASTQC, MultiQc y fastp obtenidas para la secuencia 16s del individuo obeso.  
+
+<img width="486" height="276" alt="image" src="https://github.com/user-attachments/assets/ecc5cd59-f3b9-4267-ab91-05849183a8d9" />    
+
 Figura 4. Estadísticas bàsicas FastQC_Individuo obeso   
 
 
 
-<img width="531" height="349" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/79037fca-80d5-4f1f-a1f3-711a0fceb07c" /> 
+<img width="531" height="349" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/79037fca-80d5-4f1f-a1f3-711a0fceb07c" />  
+
 Figura 5. Análisis Pher secuencia_Individuo obeso  
 
 <img width="464" height="269" alt="image" src="https://github.com/user-attachments/assets/722fcdd5-0127-479b-9f5d-c8a7c79320ad" />  
 
+
 Figura 6. Calidad por base de las secuencias evaluadas mediante FastQC_Contenido por secuencia de bases   
 
-<img width="538" height="278" alt="image" src="https://github.com/user-attachments/assets/78e1bff4-04f6-4b5b-8ff1-033bf6c6ade7" />
+<img width="538" height="278" alt="image" src="https://github.com/user-attachments/assets/78e1bff4-04f6-4b5b-8ff1-033bf6c6ade7" />  
+
 Figura 7. MultiQC con datos filtrados_individuo obeso 
 
 
