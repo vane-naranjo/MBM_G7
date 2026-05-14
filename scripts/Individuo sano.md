@@ -1,4 +1,4 @@
-# Script individuo sano  
+# Individuo sano  
 ## Objetivo  
 Realizar una línea de comando para la ejecución del control de calidad de datos de secuenciación pertenecientes a un
 individuo sano.
