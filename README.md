@@ -6,7 +6,7 @@ Integrantes:
 -Vanessa Terán  
 -Vanesa Naranjo  
 ## Objetivo   
-Comparar la microbiota intestinal entre individuos obesos y normopeso mediante análisis de secuenciación 16S.
+Comparar la microbiota intestinal entre individuos obesos y normopeso mediante análisis de secuenciación 16S y determinar si existe diferencia significativa entre su microbiota.
 ## 1.Introducción  
 La obesidad es una enfermedad multifactorial considerada uno de los principales problemas de salud pública a nivel mundial, debido a su relación con enfermedades metabólicas como diabetes tipo 2, hipertensión y trastornos cardiovasculares. En los últimos años, diversas investigaciones han demostrado que la microbiota intestinal desempeña un papel importante en el metabolismo energético, la digestión y la regulación del sistema inmunológico. La microbiota intestinal está compuesta por millones de microorganismos, principalmente bacterias, que habitan en el tracto gastrointestinal y mantienen una relación simbiótica con el organismo humano.
 Diversos estudios han evidenciado que las personas con obesidad presentan alteraciones en la composición y diversidad de su microbiota intestinal en comparación con individuos con peso normal. Cambios en la abundancia relativa de ciertos grupos bacterianos, como los filos Firmicutes y Bacteroidetes, se han asociado con una mayor capacidad de extracción de energía de los alimentos y con procesos inflamatorios relacionados con el aumento de peso corporal. Por ello, el análisis de la microbiota intestinal se ha convertido en un área de gran interés dentro de la microbiología y la bioinformática.  
@@ -26,6 +26,16 @@ Las secuencias obtenidas serán evaluadas mediante FastQC para verificar paráme
 ### 3. Procesamiento de secuencias  
 Las lecturas serán filtradas y limpiadas para eliminar secuencias de baja calidad y posibles contaminantes utilizando herramientas disponibles en Galaxy como FASTQC, MULTIQC, FASTP.
 ## 3. Resultados
+
+
+
+
+Individduo obeso:  
+
+En la Figura 5 se presentan las estadísticas básicas FASTQC obtenidas para la secuencia 16s del individuo obeso.
+<img width="486" height="276" alt="image" src="https://github.com/user-attachments/assets/ecc5cd59-f3b9-4267-ab91-05849183a8d9" />
+
+
 ## 4. Discusión
 ## 5. Conclusiones  
 
