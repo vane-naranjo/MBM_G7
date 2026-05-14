@@ -6,7 +6,7 @@ Integrantes:
 -Vanessa Terán  
 -Vanesa Naranjo  
 ## Objetivo   
-Comparar la microbiota intestinal entre individuos obesos y normopeso mediante análisis de secuenciación 16S y determinar si existe diferencia significativa entre su microbiota.
+Determinar las diferencias significativas en el perfil de la microbiota intestinal entre individuos con obesidad y normopeso empleando secuenciación masiva 16S.  
 ## 1.Introducción  
 La obesidad es una enfermedad multifactorial considerada uno de los principales problemas de salud pública a nivel mundial, debido a su relación con enfermedades metabólicas como diabetes tipo 2, hipertensión y trastornos cardiovasculares. En los últimos años, diversas investigaciones han demostrado que la microbiota intestinal desempeña un papel importante en el metabolismo energético, la digestión y la regulación del sistema inmunológico. La microbiota intestinal está compuesta por millones de microorganismos, principalmente bacterias, que habitan en el tracto gastrointestinal y mantienen una relación simbiótica con el organismo humano.
 Diversos estudios han evidenciado que las personas con obesidad presentan alteraciones en la composición y diversidad de su microbiota intestinal en comparación con individuos con peso normal. Cambios en la abundancia relativa de ciertos grupos bacterianos, como los filos Firmicutes y Bacteroidetes, se han asociado con una mayor capacidad de extracción de energía de los alimentos y con procesos inflamatorios relacionados con el aumento de peso corporal. Por ello, el análisis de la microbiota intestinal se ha convertido en un área de gran interés dentro de la microbiología y la bioinformática.  
@@ -19,7 +19,8 @@ Además del objetivo principal de comparar la microbiota intestinal entre indivi
 
 ## 2. Metodología  
 ### 1. Obtención de datos  
-La datos se obtendrán a través de bases de datos públicas del NCBI de la secuenciación de la subunidad 16S de un individuo con normopeso y un individuo con sobrepeso.  
+La datos se obtendrán a través de bases de datos públicas del NCBI de la secuenciación de la subunidad 16S de un individuo con normopeso y un individuo con sobrepeso. 
+El número de identificaicón de las secuencias para un individuo sano (SRR37389193) e individuo 
 ### 2. Almacenamiento de la información y control de calidad 
 Se utilizará la palataforma Galaxy para el procesamiento, análisis y visualización de los datos.
 Las secuencias obtenidas serán evaluadas mediante FastQC para verificar parámetros de calidad como longitud de lecturas, contenido GC y presencia de adaptadores.   
