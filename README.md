@@ -47,7 +47,7 @@ Figura 4. Estadísticas bàsicas FastQC_Individuo obeso
 
 <img width="531" height="349" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/79037fca-80d5-4f1f-a1f3-711a0fceb07c" />  
 
-Figura 5. Análisis Pher secuencia_Individuo obeso  
+Figura 5. Análisis de calidad de la secuencia de bases_Individuo obeso  
 
 <img width="464" height="269" alt="image" src="https://github.com/user-attachments/assets/722fcdd5-0127-479b-9f5d-c8a7c79320ad" />  
 
@@ -59,7 +59,30 @@ Figura 6. Calidad por base de las secuencias evaluadas mediante FastQC_Contenido
 Figura 7. MultiQC con datos filtrados_individuo obeso 
 
 
+En las Figuras presentadas a continuación  se muestran los principales resultados obtenios despuès del análisis FASTQC, MultiQc y fastp obtenidas para la secuencia 16s del individuo normopeso.  
 
+
+<img width="292" height="199" alt="image" src="https://github.com/user-attachments/assets/c4663767-8193-4696-a9c0-14ddc316a75b" />
+
+
+Figura 8. Estadísticas bàsicas FastQC_Individuo normopeso
+
+
+<img width="487" height="289" alt="image" src="https://github.com/user-attachments/assets/fccb3345-b480-426a-8692-d60ba92bb21f" />
+
+
+Figura 9. Análisis de calidad de la secuencia de bases_Individuo normopeso 
+
+
+<img width="1236" height="692" alt="image" src="https://github.com/user-attachments/assets/a313b2e3-85b8-4800-a2f3-23d8ceb6834d" />
+
+
+Figura 10. Calidad por base de las secuencias evaluadas mediante FastQC_Contenido por secuencia de bases   
+
+
+<img width="1648" height="1042" alt="image" src="https://github.com/user-attachments/assets/295876e0-ac96-47f9-a99d-9e968d7fc41d" />
+
+Figura 11. MultiQC con datos filtrados_individuo normopeso
 
 ## 4. Discusión 
 
@@ -73,6 +96,20 @@ Biológicamente, estos resultados indican que las muestras poseen una adecuada c
 
 
 ## 5. Conclusiones  
+
+Se logró obtener y procesar secuencias de la subunidad 16S rRNA de individuos con normopeso y sobrepeso provenientes de bases de datos públicas del NCBI, permitiendo desarrollar un flujo de trabajo bioinformático reproducible.
+
+El análisis de control de calidad mediante FastQC y MultiQC evidenció que ambas secuencias presentaron parámetros adecuados de calidad, incluyendo buena calidad por base, longitud de lectura uniforme y contenido GC estable, lo que permitió validar su uso para análisis posteriores.
+
+La herramienta fastp permitió realizar el filtrado y limpieza de las lecturas, eliminando posibles secuencias de baja calidad y optimizando los datos para futuros análisis microbiológicos.
+
+La plataforma Galaxy facilitó el procesamiento y visualización de los datos mediante una interfaz gráfica intuitiva, mientras que el uso de línea de comandos permitió comprender de manera más detallada el manejo directo de archivos y herramientas bioinformáticas.
+
+La comparación preliminar entre ambas muestras mostró perfiles de calidad similares, sugiriendo que las diferencias biológicas que puedan encontrarse posteriormente estarían relacionadas con la composición microbiana y no con errores técnicos de secuenciación.
+
+El proyecto permitió integrar conocimientos de microbiología, secuenciación y bioinformática, fortaleciendo habilidades en análisis de datos ómicos y uso de herramientas computacionales aplicadas al estudio del microbioma intestinal.
+
+
 
 ## 6. Link de tutorial 
 
