@@ -21,7 +21,7 @@ SRR25916244 Individuo obeso
 SRX32302418 Individuo sano  
 
 
-# **Flujo de trabajo (detallar en cada uno)** 
+# **Flujo de trabajo** 
 ```mermaid
 flowchart LR
 A[Datos crudos] --> B[Control de calidad] 
