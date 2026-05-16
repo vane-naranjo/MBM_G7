@@ -56,7 +56,7 @@ fastq SRR37389193.fastq
 ### Visualización de los resultados
 
 ```text
-xdg-open SRR37389193.fastq
+xdg-open SRR37389193_fastqc.html
 
 ```
 
