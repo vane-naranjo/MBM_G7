@@ -40,13 +40,13 @@ Para analizar la relación entre la microbiota del individuo normopeso y elobeso
 
 <p align="center"> <img width="486" height="276" alt="image" src="https://github.com/user-attachments/assets/ecc5cd59-f3b9-4267-ab91-05849183a8d9" /> </p>  
 
-<p align="center">**Figura 1. Estadísticas bàsicas FastQC_Individuo obeso** </p>    
+<p align="center"> **Figura 1. Estadísticas bàsicas FastQC_Individuo obeso** </p>    
 Aquí se puede observar que en el set de datos crudos, un total de secuencias de 578662 con 147.9Mbp. Estos resultados muestran el potencial adecuado para obtener perfiles microbianos representativos del individuo con obesidad.  
 
 
 <p align="center"> <img width="531" height="349" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/79037fca-80d5-4f1f-a1f3-711a0fceb07c" />  </p>
 
-<p align="center"> **Figura 2. Análisis de calidad de la secuencia de bases_Individuo obeso**</p>   
+<p align="center"> ** Figura 2. Análisis de calidad de la secuencia de bases_Individuo obeso **</p>   
 La calidad de secuenciación fue homogénea; no se detectaron regiones problemáticas; no hubo sesgos técnicos importantes durante la corridas
 
 
