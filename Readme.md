@@ -3,7 +3,7 @@
 
 
 # Proyecto:
-**Comparación de microbiota intestinal entre individuos normopeso y obesos mediante secuenciación 16S rRNA y herramientas bioinformáticas**  
+**Comparación de microbiota intestinal entre individuos normopeso y obesos a partir de datos obtenidos de secuenciación 16S rRNA y análisis con herramientas bioinformáticas**  
 
 
 # **Integrantes**  

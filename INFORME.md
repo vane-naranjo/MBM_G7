@@ -117,7 +117,7 @@ El gráfico circular interactivo muestra la abundancia relativa de los principal
 
 ## 4. Discusión 
 
-<p align="justify">El análisis preliminar realizado sobre las muestras SRR37389193 y SRR25916244, tanto para el individuo sano com opara el obeso mediante FastQC y MultiQC mostró que las secuencias presentan una calidad alta y estable a lo largo de las lecturas, con valores Phred cercanos a 30 y una longitud promedio aproximada de 301 pb y 149.7 Mbp. Además, el contenido GC se mantuvo en 51% en ambos casos,, valor esperado para comunidades bacterianas intestinales analizadas mediante secuenciación 16S.  El uso de secuencias 16S permite utilizar cebadores universales ya que son regiones conservadas, por lo que funcionan como marcadores moleculares para la identificación de especies bacterianas.</p>   
+<p align="justify">El análisis preliminar realizado sobre las muestras SRR37389193 y SRR25916244, tanto para el individuo sano como para el obeso mediante FastQC y MultiQC mostró que las secuencias presentan una calidad alta y estable a lo largo de las lecturas, con valores Phred cercanos a 30 y una longitud promedio aproximada de 301 pb y 149.7 Mbp. Además, el contenido GC se mantuvo en 51% en ambos casos,, valor esperado para comunidades bacterianas intestinales analizadas mediante secuenciación 16S.  El uso de secuencias 16S permite utilizar cebadores universales ya que son regiones conservadas, por lo que funcionan como marcadores moleculares para la identificación de especies bacterianas.</p>   
 
 
 <p align="justify">Al analizar los resultados de análisis de calidad para las secuencias tanto del individuo normopeso como del individuo obeso  vemos que la calidad fue alta y tras el uso de los filtros no se quitaron gran cantidad de bases, esto es característico del comportamiento de lasecuencia 16s. Sin embargo,  aunque ambas muestras mostraron perfiles de calidad semejantes, esto no implica que posean exactamente la misma microbiota intestinal, ya que el análisis de calidad únicamente evalúa características técnicas de la secuenciación y no la composición taxonómica de los microorganismos presentes, porque no es posible concluir con exactitud si existe una diferencia entre la microbiota de ambos individuos.</p>    
@@ -160,7 +160,7 @@ El gráfico circular interactivo muestra la abundancia relativa de los principal
 
 https://training.galaxyproject.org/training-material/topics/microbiome/tutorials/nanopore-16S-metagenomics/tutorial.html  
 
-## 7. Herramienta de IA
+## 8. Herramienta de IA
 
 Durante el desarrollo del proyecto de análisis de secuencias relacionadas con microbiota intestinal y obesidad, se utilizó ChatGPT/Gemini como herramienta de apoyo complementario en distintas etapas del trabajo.
 
@@ -170,7 +170,7 @@ Además, se utilizó como apoyo para mejorar la claridad técnica y académica d
 La información proporcionada por la IA fue verificada críticamente mediante la revisión de artículos científicos, documentación oficial de las herramientas bioinformáticas empleadas y la comparación con los resultados obtenidos directamente del análisis de las secuencias. Asimismo, toda la información generada fue revisada y adaptada manualmente para asegurar precisión científica, coherencia metodológica y concordancia con los objetivos del estudio.
 
 
-## 8. Referencias bibliográficas  
+## 9. Referencias bibliográficas  
 
 Ley, R. E., Turnbaugh, P. J., Klein, S., & Gordon, J. I. (2006). Microbial ecology: Human gut microbes associated with obesity. Nature, 444(7122), 1022–1023. https://doi.org/10.1038/4441022a  
 
