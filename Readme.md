@@ -23,6 +23,23 @@ SRX32302418 Individuo sano
 
 #**Flujo de trabajo (detallar en cada uno)**
 
+1. Descarga de datos
+- Descarga de las secuencias SRR25916244 y SRX32302418 desde la base de datos SRA.
+
+2. Control de calidad
+- Evaluación de la calidad de las lecturas mediante FastQC.
+
+3. Filtrado y recorte
+- Eliminación de adaptadores y secuencias de baja calidad usando FasQ
+
+4. Análisis bioinformático
+- Procesamiento y comparación de las muestras mediante Galaxy.
+
+5. Obtención de resultados
+- Comparación de la microbiota intestinal entre individuo obeso y sano.
+
+6. Interpretación
+- Análisis de diferencias observadas en la composición microbiana.
 Descarga
 
 QC
