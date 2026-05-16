@@ -1,14 +1,26 @@
 
 GRUPO DE TRABAJO PROYECTO FINAL  
 
-Integrantes:  
+Proyecto:Comparación de microbiota intestinal entre individuos normopeso y obesos mediante secuenciación 16S rRNA y herramientas bioinformáticas  
 
--Dylan Ron  
--Estefany German  
--Vanessa Terán  
--Vanesa Naranjo  
+Integrantes  
+-Dylan Ron    
+-Estefany German   ☺️  
+-Vanessa Terán   😏    
+-Vanesa Naranjo   😏  
 
-Objetivo  
-Comparar la microbiota intestinal entre individuos obesos y normopeso mediante análisis de secuenciación 16S y determinar si existe diferencia significativa entre su microbiota.  
+Objetivo    
+Comparar la microbiota intestinal entre individuos obesos y normopeso mediante análisis de secuenciación 16S y determinar si existe diferencia significativa entre su microbiota.    
 
-1.Introducción  
+Dataset  
+SRR25916244 Individuo obeso  
+SRX32302418 Individuo sano  
+
+Flujo de trabajo (detallar en cada uno)
+
+Descarga
+QC
+Análisis  
+Resultados  
+Resumen breve
+
