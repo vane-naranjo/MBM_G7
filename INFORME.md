@@ -124,30 +124,41 @@ El gráfico circular interactivo muestra la abundancia relativa de los principal
 
 <p align="justify">Biológicamente, estos resultados indican que las muestras poseen una adecuada calidad para continuar con análisis posteriores de microbiota intestinal y clasificación taxonómica. La estabilidad de la calidad y la uniformidad en la longitud de las secuencias sugieren que el proceso de secuenciación fue exitoso y que los datos son confiables para identificar comunidades bacterianas presentes en el individuo sano. Los resultados obtenidos determinan un perfil de referencia de un individuo sano para la identificación de alteraciones en la microbiota en individuos que presentan obesidad, una vez realizado el perfil taxonómico de modo que sea posible identificar desviaciones de filos como Bacteroidetes y Firmicutes, que son las poblaciones predominantes en el intestino del ser humano.</p>  
 
+<p align="justify">El análisis taxonómico preliminar realizado mediante Kraken2 y visualizado con Krona permitió observar diferencias en la composición bacteriana entre el individuo normopeso y el individuo con obesidad. En ambos casos se identificó una microbiota dominada principalmente por bacterias pertenecientes a los filos Bacteroidetes y Firmicutes, considerados los grupos bacterianos predominantes del intestino humano (Human Microbiome Project Consortium, 2012).</p>
+
+<p align="justify">En el individuo normopeso se observó una distribución bacteriana más diversa y equilibrada, con representación importante de grupos pertenecientes a Clostridia, Oscillospirales y Ruminococcaceae. Diversos estudios han descrito que una mayor diversidad bacteriana intestinal suele asociarse con un estado metabólico saludable y con funciones beneficiosas como fermentación de fibra y producción de ácidos grasos de cadena corta (Qin et al., 2010), por otro lado, el individuo con obesidad presentó una distribución menos homogénea y predominio de ciertos grupos bacterianos en comparación con el individuo sano. Estas alteraciones microbianas han sido relacionadas con obesidad y con una mayor capacidad de extracción energética de los alimentos, además de procesos inflamatorios asociados al metabolismo (Turnbaugh et al., 2006; Ley et al., 2006).</p>
+
+<p align="justify">Los resultados obtenidos coinciden con investigaciones previas donde se ha reportado que cambios en la abundancia relativa de Firmicutes y Bacteroidetes pueden asociarse con obesidad y alteraciones metabólicas. Sin embargo, debido a que este estudio incluyó únicamente dos muestras individuales, los resultados deben considerarse preliminares y descriptivos, ya que factores como dieta, edad, ambiente y estilo de vida también influyen significativamente sobre la microbiota intestinal (Turnbaugh et al., 2009).</p>
+
+## 5 Aplicaciones y ejemplos 
+
+El análisis taxonómico de la microbiota intestinal posee múltiples aplicaciones clínicas y biomédicas, ya que permite identificar alteraciones en la composición bacteriana asociadas con diversas enfermedades metabólicas y gastrointestinales. Mediante herramientas bioinformáticas como Kraken2 y visualizadores como Krona es posible caracterizar los microorganismos presentes en el intestino y comparar diferencias entre individuos sanos y pacientes con distintas patologías.
+
+En enfermedades como obesidad y diabetes tipo 2, diversos estudios han reportado cambios en la abundancia relativa de bacterias pertenecientes a los filos Firmicutes y Bacteroidetes, los cuales pueden influir en procesos relacionados con metabolismo energético, inflamación y absorción de nutrientes. Asimismo, el estudio de la microbiota intestinal también tiene aplicaciones en enfermedades inflamatorias intestinales, evaluación del efecto de probióticos y prebióticos, nutrición personalizada y análisis de respuesta a tratamientos farmacológicos.
+
+Estos enfoques contribuyen al desarrollo de estrategias de medicina personalizada y permiten comprender mejor la relación entre microbiota y salud humana. Sin embargo, debido a la influencia de factores como dieta, edad, ambiente y estilo de vida, es necesario realizar estudios con un mayor número de muestras para obtener conclusiones clínicas más robustas y representativas.
 
 
+## 6. Conclusiones  
 
-## 5. Conclusiones  
+Se logró obtener y procesar secuencias 16S rRNA de un individuo normopeso y un individuo con obesidad provenientes de bases de datos públicas del NCBI, permitiendo desarrollar un flujo de trabajo bioinformático reproducible.
 
-Se logró obtener y procesar secuencias de la subunidad 16S rRNA de individuos con normopeso y sobrepeso provenientes de bases de datos públicas del NCBI, permitiendo desarrollar un flujo de trabajo bioinformático reproducible.
+El análisis de calidad mediante FastQC y MultiQC mostró que ambas muestras presentaron lecturas de buena calidad, contenido GC estable y longitudes adecuadas para continuar con el análisis taxonómico.
 
-El análisis de control de calidad mediante FastQC y MultiQC evidenció que ambas secuencias presentaron parámetros adecuados de calidad, incluyendo buena calidad por base, longitud de lectura uniforme y contenido GC estable, lo que permitió validar su uso para análisis posteriores.
+La herramienta fastp permitió realizar el filtrado y limpieza de las secuencias, optimizando los datos para posteriores análisis de microbiota intestinal.
 
-La herramienta fastp permitió realizar el filtrado y limpieza de las lecturas, eliminando posibles secuencias de baja calidad y optimizando los datos para futuros análisis microbiológicos.
+El análisis taxonómico realizado con Kraken2 y visualizado mediante Krona evidenció diferencias preliminares en la composición bacteriana entre el individuo sano y el individuo con obesidad.
 
-La plataforma Galaxy facilitó el procesamiento y visualización de los datos mediante una interfaz gráfica intuitiva, mientras que el uso de línea de comandos permitió comprender de manera más detallada el manejo directo de archivos y herramientas bioinformáticas.
+En ambas muestras predominaron bacterias pertenecientes a los filos Firmicutes y Bacteroidetes, grupos microbianos comúnmente asociados a la microbiota intestinal humana.
 
-La comparación preliminar entre ambas muestras mostró perfiles de calidad similares, sugiriendo que las diferencias biológicas que puedan encontrarse posteriormente estarían relacionadas con la composición microbiana y no con errores técnicos de secuenciación.
-
-El proyecto permitió integrar conocimientos de microbiología, secuenciación y bioinformática, fortaleciendo habilidades en análisis de datos ómicos y uso de herramientas computacionales aplicadas al estudio del microbioma intestinal.
-
+La integración de herramientas bioinformáticas como Galaxy, Kraken2 y Krona permitió fortalecer habilidades en análisis de datos ómicos y facilitó la interpretación biológica de comunidades microbianas intestinales.
 
 
-## 6. Link de tutorial 
+## 7. Link de tutorial 
 
 https://training.galaxyproject.org/training-material/topics/microbiome/tutorials/nanopore-16S-metagenomics/tutorial.html  
 
-## 7. Referencias bibliográficas  
+## 8. Referencias bibliográficas  
 
 Ley, R. E., Turnbaugh, P. J., Klein, S., & Gordon, J. I. (2006). Microbial ecology: Human gut microbes associated with obesity. Nature, 444(7122), 1022–1023. https://doi.org/10.1038/4441022a  
 
