@@ -56,6 +56,17 @@ Figura 3. Calidad por base de las secuencias evaluadas mediante FastQC_Contenido
 
 Figura 4. MultiQC con datos filtrados_individuo obeso 
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6b73e4bf-44dc-4462-8c97-c61893e56ded" />  
+Figura 5.  Reporte taxonómico generado mediante Kraken2 para la muestra del individuo normopeso.  
+Se observa la clasificación taxonómica de bacterias presentes en la microbiota intestinal a diferentes niveles taxonómicos.  
+
+<img width="1600" height="887" alt="WhatsApp Image 2026-05-15 at 11 07 53 PM" src="https://github.com/user-attachments/assets/447baad9-bd6f-44db-85c0-54b6ebaa2e63" />
+Figura 6. Visualización taxonómica de la microbiota intestinal del individuo normopeso mediante Krona.
+El gráfico circular interactivo muestra la abundancia relativa de los principales grupos bacterianos identificados a partir de las secuencias 16S rRNA analizadas con Kraken2.
+
+ 
+
+
 
 En las Figuras presentadas a continuación  se muestran los principales resultados obtenios despuès del análisis FASTQC, MultiQc y fastp obtenidas para la secuencia 16s del individuo normopeso.  
 
