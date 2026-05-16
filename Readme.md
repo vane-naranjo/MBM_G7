@@ -24,12 +24,14 @@ SRX32302418 Individuo sano
 # **Flujo de trabajo (detallar en cada uno)** 
 ```mermaid
 flowchart LR
-    A[Datos crudos] --> B[Control de calidad]
-    B --> C[Filtrado]
-    C --> D[Alineamiento]
-    D --> E[Cuantificación]
-    E --> F[Análisis diferencial]
-    F --> G[Visualización]
+A[Datos crudos] --> B[Control de calidad] 
+B --> C[Filtrado]
+C --> D[Alineamiento]
+D --> E[Cuantificación]
+E --> F[Análisis diferencial]
+F --> G[Visualización]
+```
+
 Descarga
 
 QC
