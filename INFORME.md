@@ -158,7 +158,7 @@ El gráfico circular interactivo muestra la abundancia relativa de los principal
 
 https://training.galaxyproject.org/training-material/topics/microbiome/tutorials/nanopore-16S-metagenomics/tutorial.html  
 
-## 7. Herramienta de IA
+## 8. Herramienta de IA
 
 Durante el desarrollo del proyecto de análisis de secuencias relacionadas con microbiota intestinal y obesidad, se utilizó ChatGPT/Gemini como herramienta de apoyo complementario en distintas etapas del trabajo.
 
@@ -168,7 +168,7 @@ Además, se utilizó como apoyo para mejorar la claridad técnica y académica d
 La información proporcionada por la IA fue verificada críticamente mediante la revisión de artículos científicos, documentación oficial de las herramientas bioinformáticas empleadas y la comparación con los resultados obtenidos directamente del análisis de las secuencias. Asimismo, toda la información generada fue revisada y adaptada manualmente para asegurar precisión científica, coherencia metodológica y concordancia con los objetivos del estudio.
 
 
-## 8. Referencias bibliográficas  
+## 9. Referencias bibliográficas  
 
 Ley, R. E., Turnbaugh, P. J., Klein, S., & Gordon, J. I. (2006). Microbial ecology: Human gut microbes associated with obesity. Nature, 444(7122), 1022–1023. https://doi.org/10.1038/4441022a  
 
