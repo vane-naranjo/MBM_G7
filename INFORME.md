@@ -18,19 +18,19 @@ Diversos estudios han evidenciado que las personas con obesidad presentan altera
 
 ## 2. Metodología  
 ### 1. Obtención de datos  
-La datos se obtendrán a través de bases de datos públicas del NCBI de la secuenciación de la subunidad 16S de un individuo con normopeso y un individuo con sobrepeso. 
+La datos se obtuvieron a través de bases de datos públicas del NCBI de la secuenciación de la subunidad 16S de un individuo con normopeso y un individuo con sobrepeso. 
 Secuencia de la persona sana: SRR37389193
 Secuencia de la persona obesa: SRR25916244
 ### 2. Almacenamiento de la información y control de calidad 
-Se utilizará la palataforma Galaxy para el procesamiento, análisis y visualización de los datos.
-Las secuencias obtenidas serán evaluadas mediante FastQC para verificar parámetros de calidad como longitud de lecturas, contenido GC y presencia de adaptadores.   
+Se utilizó la palataforma Galaxy para el procesamiento, análisis y visualización de los datos.
+Las secuencias obtenidas fueron evaluadas mediante FastQC para verificar parámetros de calidad como longitud de lecturas, contenido GC y presencia de adaptadores.   
 ### 3. Procesamiento de secuencias  
-Las lecturas serán filtradas y limpiadas para eliminar secuencias de baja calidad y posibles contaminantes utilizando herramientas disponibles en Galaxy como FASTQC, MULTIQC Y FASTP.
+Las lecturas fueron filtradas y limpiadas para eliminar secuencias de baja calidad y posibles contaminantes utilizando herramientas disponibles en Galaxy como FASTQC, MULTIQC Y FASTP.
 Se utilizó la plataforma Kraken 2 para la clasificación taxonómica de las secuencias a través de una base de datos de genomas de referencia. Finalmente para una mejor visualización se utilizó la herramienta Krona, que transformó los datos obtenidos en un gráfico circular multinivel. 
 ### 4. Comparación de microbiota  
-Se comparará la composición bacteriana entre el individuo normopeso y el individuo con sobrepeso, evaluando diferencias en abundancia y diversidad microbiana.
+Se comparó la composición bacteriana entre el individuo normopeso y el individuo con sobrepeso, evaluando diferencias en abundancia y diversidad microbiana.
 ### 5. Visualización e interpretación biológica  
-Los resultados serán representados mediante gráficos y herramientas de visualización taxonómica. Finalmente, se realizará una interpretación biológica de las diferencias observadas en la microbiota intestinal.
+Los resultados fueron representados mediante gráficos y herramientas de visualización taxonómica. Finalmente, se realizó una interpretación biológica de las diferencias observadas en la microbiota intestinal.
 
 ## 3. Resultados
 Para analizar la relación entre la microbiota del individuo normopeso y elobeso se presentan a continuación los principales resultados obtenidos después del análisis FASTQC, MultiQc y fastp obtenidas para la secuencia 16s. 
@@ -157,6 +157,16 @@ El gráfico circular interactivo muestra la abundancia relativa de los principal
 ## 7. Link de tutorial 
 
 https://training.galaxyproject.org/training-material/topics/microbiome/tutorials/nanopore-16S-metagenomics/tutorial.html  
+
+## 7. Herramienta de IA
+
+Durante el desarrollo del proyecto de análisis de secuencias relacionadas con microbiota intestinal y obesidad, se utilizó ChatGPT/Gemini como herramienta de apoyo complementario en distintas etapas del trabajo.
+
+La inteligencia artificial se empleó principalmente en la redacción y organización de la documentación científica, elaboración de descripciones metodológicas, apoyo en la interpretación general de resultados bioinformáticos, generación de contenido en markdown y explicación del flujo de análisis de secuencias realizado en plataformas como Galaxy y herramientas de control de calidad como FastQC. 
+Además, se utilizó como apoyo para mejorar la claridad técnica y académica de los reportes generados durante el proyecto.
+
+La información proporcionada por la IA fue verificada críticamente mediante la revisión de artículos científicos, documentación oficial de las herramientas bioinformáticas empleadas y la comparación con los resultados obtenidos directamente del análisis de las secuencias. Asimismo, toda la información generada fue revisada y adaptada manualmente para asegurar precisión científica, coherencia metodológica y concordancia con los objetivos del estudio.
+
 
 ## 8. Referencias bibliográficas  
 

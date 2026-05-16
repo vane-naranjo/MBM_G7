@@ -32,6 +32,24 @@ E --> F[Análisis diferencial]
 F --> G[Visualización]
 ```
 
+1. Descarga de datos
+- Descarga de las secuencias SRR25916244 y SRX32302418 desde la base de datos SRA.
+
+2. Control de calidad
+- Evaluación de la calidad de las lecturas mediante FastQC.
+
+3. Filtrado y recorte
+- Eliminación de adaptadores y secuencias de baja calidad usando FasQ
+
+4. Análisis bioinformático
+- Procesamiento y comparación de las muestras mediante Galaxy.
+
+5. Obtención de resultados
+- Comparación de la microbiota intestinal entre individuo obeso y sano.
+
+6. Interpretación
+- Análisis de diferencias observadas en la composición microbiana.
+Descarga
  
 # **Resultados**  
 <p align="justify">El análisis de calidad de las muestras mediante FastQC y MultiQC mostró secuencias de alta calidad, con valores Phred cercanos a 30 y contenido GC esperado para microbiota intestinal analizada por secuenciación 16S. Tras el filtrado, se observó una mínima pérdida de bases, indicando datos confiables para análisis posteriores.</p>
