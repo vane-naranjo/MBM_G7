@@ -1,16 +1,20 @@
-# MBM_G7
+# MBM_G7  
+
+**Integrantes**: Dylan Ron, Estefany Germán, Vanessa Terán, Vanesa Naranjo  
 
 ## Objetivo   
-Comparar la microbiota intestinal entre individuos obesos y normopeso mediante análisis de secuenciación 16S y determinar si existe diferencia significativa entre su microbiota.
+Comparar la microbiota intestinal entre individuos obesos y normopeso mediante análisis de secuenciación 16S y determinar si existe diferencia significativa entre su microbiota.  
+
 ## 1.Introducción  
-La obesidad es una enfermedad multifactorial considerada uno de los principales problemas de salud pública a nivel mundial, debido a su relación con enfermedades metabólicas como diabetes tipo 2, hipertensión y trastornos cardiovasculares. En los últimos años, diversas investigaciones han demostrado que la microbiota intestinal desempeña un papel importante en el metabolismo energético, la digestión y la regulación del sistema inmunológico. La microbiota intestinal está compuesta por millones de microorganismos, principalmente bacterias, que habitan en el tracto gastrointestinal y mantienen una relación simbiótica con el organismo humano.
-Diversos estudios han evidenciado que las personas con obesidad presentan alteraciones en la composición y diversidad de su microbiota intestinal en comparación con individuos con peso normal. Cambios en la abundancia relativa de ciertos grupos bacterianos, como los filos Firmicutes y Bacteroidetes, se han asociado con una mayor capacidad de extracción de energía de los alimentos y con procesos inflamatorios relacionados con el aumento de peso corporal. Por ello, el análisis de la microbiota intestinal se ha convertido en un área de gran interés dentro de la microbiología y la bioinformática.  
+<p align="justify"> La obesidad es una enfermedad multifactorial considerada uno de los principales problemas de salud pública a nivel mundial, debido a su relación con enfermedades metabólicas como diabetes tipo 2, hipertensión y trastornos cardiovasculares. En los últimos años, diversas investigaciones han demostrado que la microbiota intestinal desempeña un papel importante en el metabolismo energético, la digestión y la regulación del sistema inmunológico. La microbiota intestinal está compuesta por millones de microorganismos, principalmente bacterias, que habitan en el tracto gastrointestinal y mantienen una relación simbiótica con el organismo humano.
+Diversos estudios han evidenciado que las personas con obesidad presentan alteraciones en la composición y diversidad de su microbiota intestinal en comparación con individuos con peso normal. Cambios en la abundancia relativa de ciertos grupos bacterianos, como los filos Firmicutes y Bacteroidetes, se han asociado con una mayor capacidad de extracción de energía de los alimentos y con procesos inflamatorios relacionados con el aumento de peso corporal. Por ello, el análisis de la microbiota intestinal se ha convertido en un área de gran interés dentro de la microbiología y la bioinformática.</p>  
 
  
-El gen 16S rRNA es un marcador molecular presente en todas las bacterias que contiene regiones conservadas y variables, lo que permite identificar y comparar comunidades bacterianas mediante secuenciación. La importancia del uso del gen 16S como marcador radica en que forma parte del ribosoma bacteriano, estructura encargada de la síntesis de proteínas. Algunas regiones de este gen son altamente conservadas entre distintas bacterias, mientras que otras presentan variaciones entre especies, característica que permite identificar géneros bacterianos y, en algunos casos, especies específicas (Janda & Abbott, 2007). Además, su estudio es fundamental para analizar la diversidad microbiana y la microbiota intestinal, como en el caso de este proyecto.  
-La metagenómica basada en 16S permite estimar qué bacterias están presentes en una muestra, así como determinar su abundancia relativa, diversidad bacteriana y diferencias entre grupos. Estos análisis constituirán la base para comparar la microbiota intestinal de individuos normopeso y con obesidad. Esta ómica representa la principal herramienta utilizada en este proyecto, ya que permite analizar la comunidad bacteriana completa presente en muestras fecales y no únicamente microorganismos aislados. Aunque la metagenómica es el eje central del estudio, otras ciencias ómicas como la metabolómica, transcriptómica, proteómica y genómica también guardan relación, debido a su aporte en la comprensión integral de los procesos biológicos asociados a la microbiota y la obesidad (Janda & Abbott, 2007; Handelsman, 2004).  
+<p align="justify">El gen 16S rRNA es un marcador molecular presente en todas las bacterias que contiene regiones conservadas y variables, lo que permite identificar y comparar comunidades bacterianas mediante secuenciación. La importancia del uso del gen 16S como marcador radica en que forma parte del ribosoma bacteriano, estructura encargada de la síntesis de proteínas. Algunas regiones de este gen son altamente conservadas entre distintas bacterias, mientras que otras presentan variaciones entre especies, característica que permite identificar géneros bacterianos y, en algunos casos, especies específicas (Janda & Abbott, 2007). Además, su estudio es fundamental para analizar la diversidad microbiana y la microbiota intestinal, como en el caso de este proyecto. </p> 
 
-Además del objetivo principal de comparar la microbiota intestinal entre individuos obesos y normopeso, el proyecto permitirá explorar la relación entre la microbiota y obesidad mediante la identificación de bacterias asociadas al metabolismo y el análisis de la diversidad bacteriana de cada individuo. De este modo, el uso de herramientas de metagenómica y bioinformática permitirá comprender cómo la microbiota intestinal se relaciona con la obesidad. La integración de la secuenciación 16S y el análisis computacional servirá como base para identificar diferencias microbianas entre ambos grupos, contribuyendo al estudio de enfermedades metabólicas, al desarrollo de habilidades bioinformáticas y, potencialmente, a la generación de futuras estrategias aplicadas al campo de la salud (Human Microbiome Project Consortium, 2012; Janda & Abbott, 2007).
+<p align="justify">La metagenómica basada en 16S permite estimar qué bacterias están presentes en una muestra, así como determinar su abundancia relativa, diversidad bacteriana y diferencias entre grupos. Estos análisis constituirán la base para comparar la microbiota intestinal de individuos normopeso y con obesidad. Esta ómica representa la principal herramienta utilizada en este proyecto, ya que permite analizar la comunidad bacteriana completa presente en muestras fecales y no únicamente microorganismos aislados. Aunque la metagenómica es el eje central del estudio, otras ciencias ómicas como la metabolómica, transcriptómica, proteómica y genómica también guardan relación, debido a su aporte en la comprensión integral de los procesos biológicos asociados a la microbiota y la obesidad (Janda & Abbott, 2007; Handelsman, 2004). </p>  
+
+<p align="justify">Además del objetivo principal de comparar la microbiota intestinal entre individuos obesos y normopeso, el proyecto permitirá explorar la relación entre la microbiota y obesidad mediante la identificación de bacterias asociadas al metabolismo y el análisis de la diversidad bacteriana de cada individuo. De este modo, el uso de herramientas de metagenómica y bioinformática permitirá comprender cómo la microbiota intestinal se relaciona con la obesidad. La integración de la secuenciación 16S y el análisis computacional servirá como base para identificar diferencias microbianas entre ambos grupos, contribuyendo al estudio de enfermedades metabólicas, al desarrollo de habilidades bioinformáticas y, potencialmente, a la generación de futuras estrategias aplicadas al campo de la salud (Human Microbiome Project Consortium, 2012; Janda & Abbott, 2007).</p>
 
 ## 2. Metodología  
 ### 1. Obtención de datos  
@@ -29,89 +33,102 @@ Se comparará la composición bacteriana entre el individuo normopeso y el indiv
 Los resultados serán representados mediante gráficos y herramientas de visualización taxonómica. Finalmente, se realizará una interpretación biológica de las diferencias observadas en la microbiota intestinal.
 
 ## 3. Resultados
+Para analizar la relación entre la microbiota del individuo normopeso y elobeso se presentan a continuación los principales resultados obtenidos después del análisis FASTQC, MultiQc y fastp obtenidas para la secuencia 16s. 
+
+#Individuo obeso:  
+  
+
+<p align="center"> <img width="486" height="276" alt="image" src="https://github.com/user-attachments/assets/ecc5cd59-f3b9-4267-ab91-05849183a8d9" /> </p>  
+
+**Figura 1. Estadísticas bàsicas FastQC_Individuo obeso**   
+Aquí se puede observar que en el set de datos crudos, un total de secuencias de 578662 con 147.9Mbp. Estos resultados muestran el potencial adecuado para obtener perfiles microbianos representativos del individuo con obesidad.  
 
 
+<p align="center"> <img width="531" height="349" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/79037fca-80d5-4f1f-a1f3-711a0fceb07c" />  </p>
+
+**Figura 2. Análisis de calidad de la secuencia de bases_Individuo obeso**  
+La calidad de secuenciación fue homogénea; no se detectaron regiones problemáticas; no hubo sesgos técnicos importantes durante la corridas
 
 
-Individuo obeso:  
-
-En las Figuras presentadas a continuación  se muestran los principales resultados obtenios despuès del análisis FASTQC, MultiQc y fastp obtenidas para la secuencia 16s del individuo obeso.  
-
-<img width="486" height="276" alt="image" src="https://github.com/user-attachments/assets/ecc5cd59-f3b9-4267-ab91-05849183a8d9" />    
-
-Figura 1. Estadísticas bàsicas FastQC_Individuo obeso   
+<p align="center"> <img width="464" height="269" alt="image" src="https://github.com/user-attachments/assets/722fcdd5-0127-479b-9f5d-c8a7c79320ad" /> </p> 
 
 
-
-<img width="531" height="349" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/79037fca-80d5-4f1f-a1f3-711a0fceb07c" />  
-
-Figura 2. Análisis de calidad de la secuencia de bases_Individuo obeso  
-
-<img width="464" height="269" alt="image" src="https://github.com/user-attachments/assets/722fcdd5-0127-479b-9f5d-c8a7c79320ad" />  
+**Figura 3. Calidad por base de las secuencias evaluadas mediante FastQC_Contenido por secuencia de bases**   
+Se muestra la diversidad microbiana presente ya que cada bacteria tiene regiones 16S distintas. 
 
 
-Figura 3. Calidad por base de las secuencias evaluadas mediante FastQC_Contenido por secuencia de bases   
+<p align="center"> <img width="538" height="278" alt="image" src="https://github.com/user-attachments/assets/78e1bff4-04f6-4b5b-8ff1-033bf6c6ade7" />  </p>
 
-<img width="538" height="278" alt="image" src="https://github.com/user-attachments/assets/78e1bff4-04f6-4b5b-8ff1-033bf6c6ade7" />  
+**Figura 4. MultiQC con datos filtrados_individuo obeso** 
 
-Figura 4. MultiQC con datos filtrados_individuo obeso 
+Después de haber realizado el análisis de calidad, se presentan ahora los resultados del análisis de taxonomía: 
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6b73e4bf-44dc-4462-8c97-c61893e56ded" />  
-Figura 5.  Reporte taxonómico generado mediante Kraken2 para la muestra del individuo normopeso.  
-Se observa la clasificación taxonómica de bacterias presentes en la microbiota intestinal a diferentes niveles taxonómicos.  
+<p align="center"> <img width="908" height="378" alt="image" src="https://github.com/user-attachments/assets/8fa18232-545c-4f34-bdf6-0724c4af6b45" /></p>
+ 
+**Figura 5.  Reporte taxonómico generado mediante Kraken2 para la muestra del individuo normopeso**
 
-<img width="1600" height="887" alt="WhatsApp Image 2026-05-15 at 11 07 53 PM" src="https://github.com/user-attachments/assets/447baad9-bd6f-44db-85c0-54b6ebaa2e63" />
-Figura 6. Visualización taxonómica de la microbiota intestinal del individuo normopeso mediante Krona.
-El gráfico circular interactivo muestra la abundancia relativa de los principales grupos bacterianos identificados a partir de las secuencias 16S rRNA analizadas con Kraken2.
+Se observa la clasificación taxonómica de bacterias presentes en la microbiota intestinal  
+
+<p align="center"> <img width="967" height="520" alt="image" src="https://github.com/user-attachments/assets/af3d4552-5e64-439f-bec0-537d248d9b98" /></p>
+
+**Figura 6. Visualización taxonómica de la microbiota intestinal del individuo normopeso mediante Krona**.
+El gráfico circular interactivo muestra la abundancia relativa de los principales grupos bacterianos identificados a partir de las secuencias 16S rRNA analizadas con Kraken2 para el individuo obeso.
 
  
+#Individuo normopeso/sano 
+
+
+<p align="center"> <img width="292" height="199" alt="image" src="https://github.com/user-attachments/assets/c4663767-8193-4696-a9c0-14ddc316a75b" /></p>
+
+
+**Figura 7 . Estadísticas bàsicas FastQC_Individuo normopeso**
+
+
+<p align="center"> <img width="487" height="289" alt="image" src="https://github.com/user-attachments/assets/fccb3345-b480-426a-8692-d60ba92bb21f" /></p>
 
 
 
-En las Figuras presentadas a continuación  se muestran los principales resultados obtenios despuès del análisis FASTQC, MultiQc y fastp obtenidas para la secuencia 16s del individuo normopeso.  
+**Figura 6. Análisis de calidad de la secuencia de bases_Individuo normopeso** 
 
 
-<img width="292" height="199" alt="image" src="https://github.com/user-attachments/assets/c4663767-8193-4696-a9c0-14ddc316a75b" />
+<p align="center"> <img width="1236" height="692" alt="image" src="https://github.com/user-attachments/assets/a313b2e3-85b8-4800-a2f3-23d8ceb6834d" /></p>
 
 
-Figura 5. Estadísticas bàsicas FastQC_Individuo normopeso
+**Figura 7. Calidad por base de las secuencias evaluadas mediante FastQC_Contenido por secuencia de bases**   
 
 
-<img width="487" height="289" alt="image" src="https://github.com/user-attachments/assets/fccb3345-b480-426a-8692-d60ba92bb21f" />
+<p align="center"> <img width="1648" height="1042" alt="image" src="https://github.com/user-attachments/assets/295876e0-ac96-47f9-a99d-9e968d7fc41d" /></p>
 
 
-Figura 6. Análisis de calidad de la secuencia de bases_Individuo normopeso 
+**Figura 8. MultiQC con datos filtrados_individuo normopeso**
+
+<p align="center"> <img width="2968" height="1374" alt="image" src="https://github.com/user-attachments/assets/1c7975c8-42db-4b73-b559-bd6c5d1c3646" /></p>
 
 
-<img width="1236" height="692" alt="image" src="https://github.com/user-attachments/assets/a313b2e3-85b8-4800-a2f3-23d8ceb6834d" />
-
-
-Figura 7. Calidad por base de las secuencias evaluadas mediante FastQC_Contenido por secuencia de bases   
-
-
-<img width="1648" height="1042" alt="image" src="https://github.com/user-attachments/assets/295876e0-ac96-47f9-a99d-9e968d7fc41d" />
-
-Figura 8. MultiQC con datos filtrados_individuo normopeso
-
-<img width="2968" height="1374" alt="image" src="https://github.com/user-attachments/assets/1c7975c8-42db-4b73-b559-bd6c5d1c3646" />
-
-Figura 9. Reporte taxonómico generado mediante Kraken2 para la muestra del individuo normopeso.
+**Figura 9. Reporte taxonómico generado mediante Kraken2 para la muestra del individuo normopeso**.
 Se observa la clasificación taxonómica de bacterias presentes en la microbiota intestinal a diferentes niveles taxonómicos.
 
 
-<img width="2890" height="1468" alt="image" src="https://github.com/user-attachments/assets/6cd9f2b2-42ac-42a8-b3c3-074b40058b7c" />
+<p align="center"> <img width="2890" height="1468" alt="image" src="https://github.com/user-attachments/assets/6cd9f2b2-42ac-42a8-b3c3-074b40058b7c" /></p>
 
-Figura 10.Visualización taxonómica de la microbiota intestinal del individuo normopeso mediante Krona.
+**Figura 10.Visualización taxonómica de la microbiota intestinal del individuo normopeso mediante Krona**.
 El gráfico circular interactivo muestra la abundancia relativa de los principales grupos bacterianos identificados a partir de las secuencias 16S rRNA analizadas con Kraken2.
+
 
 ## 4. Discusión 
 
-El análisis taxonómico preliminar realizado mediante Kraken2 y visualizado con Krona permitió observar diferencias en la composición bacteriana entre el individuo normopeso y el individuo con obesidad. En ambos casos se identificó una microbiota dominada principalmente por bacterias pertenecientes a los filos Bacteroidetes y Firmicutes, considerados los grupos bacterianos predominantes del intestino humano (Human Microbiome Project Consortium, 2012).
+<p align="justify">El análisis preliminar realizado sobre las muestras SRR37389193 y SRR25916244, tanto para el individuo sano com opara el obeso mediante FastQC y MultiQC mostró que las secuencias presentan una calidad alta y estable a lo largo de las lecturas, con valores Phred cercanos a 30 y una longitud promedio aproximada de 301 pb y 149.7 Mbp. Además, el contenido GC se mantuvo en 51% en ambos casos,, valor esperado para comunidades bacterianas intestinales analizadas mediante secuenciación 16S.  El uso de secuencias 16S permite utilizar cebadores universales ya que son regiones conservadas, por lo que funcionan como marcadores moleculares para la identificación de especies bacterianas.</p>   
 
-En el individuo normopeso se observó una distribución bacteriana más diversa y equilibrada, con representación importante de grupos pertenecientes a Clostridia, Oscillospirales y Ruminococcaceae. Diversos estudios han descrito que una mayor diversidad bacteriana intestinal suele asociarse con un estado metabólico saludable y con funciones beneficiosas como fermentación de fibra y producción de ácidos grasos de cadena corta (Qin et al., 2010), por otro lado, el individuo con obesidad presentó una distribución menos homogénea y predominio de ciertos grupos bacterianos en comparación con el individuo sano. Estas alteraciones microbianas han sido relacionadas con obesidad y con una mayor capacidad de extracción energética de los alimentos, además de procesos inflamatorios asociados al metabolismo (Turnbaugh et al., 2006; Ley et al., 2006).
 
-Los resultados obtenidos coinciden con investigaciones previas donde se ha reportado que cambios en la abundancia relativa de Firmicutes y Bacteroidetes pueden asociarse con obesidad y alteraciones metabólicas. Sin embargo, debido a que este estudio incluyó únicamente dos muestras individuales, los resultados deben considerarse preliminares y descriptivos, ya que factores como dieta, edad, ambiente y estilo de vida también influyen significativamente sobre la microbiota intestinal (Turnbaugh et al., 2009).
+<p align="justify">Al analizar los resultados de análisis de calidad para las secuencias tanto del individuo normopeso como del individuo obeso  vemos que la calidad fue alta y tras el uso de los filtros no se quitaron gran cantidad de bases, esto es característico del comportamiento de lasecuencia 16s. Sin embargo,  aunque ambas muestras mostraron perfiles de calidad semejantes, esto no implica que posean exactamente la misma microbiota intestinal, ya que el análisis de calidad únicamente evalúa características técnicas de la secuenciación y no la composición taxonómica de los microorganismos presentes, porque no es posible concluir con exactitud si existe una diferencia entre la microbiota de ambos individuos.</p>    
 
+<p align="justify">Biológicamente, estos resultados indican que las muestras poseen una adecuada calidad para continuar con análisis posteriores de microbiota intestinal y clasificación taxonómica. La estabilidad de la calidad y la uniformidad en la longitud de las secuencias sugieren que el proceso de secuenciación fue exitoso y que los datos son confiables para identificar comunidades bacterianas presentes en el individuo sano. Los resultados obtenidos determinan un perfil de referencia de un individuo sano para la identificación de alteraciones en la microbiota en individuos que presentan obesidad, una vez realizado el perfil taxonómico de modo que sea posible identificar desviaciones de filos como Bacteroidetes y Firmicutes, que son las poblaciones predominantes en el intestino del ser humano.</p>  
+
+<p align="justify">El análisis taxonómico preliminar realizado mediante Kraken2 y visualizado con Krona permitió observar diferencias en la composición bacteriana entre el individuo normopeso y el individuo con obesidad. En ambos casos se identificó una microbiota dominada principalmente por bacterias pertenecientes a los filos Bacteroidetes y Firmicutes, considerados los grupos bacterianos predominantes del intestino humano (Human Microbiome Project Consortium, 2012).</p>
+
+<p align="justify">En el individuo normopeso se observó una distribución bacteriana más diversa y equilibrada, con representación importante de grupos pertenecientes a Clostridia, Oscillospirales y Ruminococcaceae. Diversos estudios han descrito que una mayor diversidad bacteriana intestinal suele asociarse con un estado metabólico saludable y con funciones beneficiosas como fermentación de fibra y producción de ácidos grasos de cadena corta (Qin et al., 2010), por otro lado, el individuo con obesidad presentó una distribución menos homogénea y predominio de ciertos grupos bacterianos en comparación con el individuo sano. Estas alteraciones microbianas han sido relacionadas con obesidad y con una mayor capacidad de extracción energética de los alimentos, además de procesos inflamatorios asociados al metabolismo (Turnbaugh et al., 2006; Ley et al., 2006).</p>
+
+<p align="justify">Los resultados obtenidos coinciden con investigaciones previas donde se ha reportado que cambios en la abundancia relativa de Firmicutes y Bacteroidetes pueden asociarse con obesidad y alteraciones metabólicas. Sin embargo, debido a que este estudio incluyó únicamente dos muestras individuales, los resultados deben considerarse preliminares y descriptivos, ya que factores como dieta, edad, ambiente y estilo de vida también influyen significativamente sobre la microbiota intestinal (Turnbaugh et al., 2009).</p>
 
 ## 5 Aplicaciones y ejemplos 
 
