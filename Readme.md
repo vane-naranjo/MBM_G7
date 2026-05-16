@@ -56,3 +56,9 @@ Descarga
 
 <p align="justify">El análisis taxonómico con Kraken2 y Krona evidenció predominio de los filos Firmicutes y Bacteroidetes en ambas muestras. El individuo normopeso presentó una microbiota más diversa y equilibrada, mientras que el individuo con obesidad mostró cambios en la abundancia bacteriana asociados previamente con alteraciones metabólicas. Debido al reducido número de muestras, los resultados deben considerarse preliminares.</p>
 
+Links historias de galaxy  
+Individuo sano:  
+https://galaxy-main.usegalaxy.org/published/history?id=bbd44e69cb8906b567c672305fdc7162  
+
+Individuo obeso: 
+https://galaxy-main.usegalaxy.org/datasets/f9cad7b01a47213577df5b7b8d770e7d  
