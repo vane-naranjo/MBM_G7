@@ -132,26 +132,26 @@ El gráfico circular interactivo muestra la abundancia relativa de los principal
 
 ## 5 Aplicaciones y ejemplos 
 
-El análisis taxonómico de la microbiota intestinal posee múltiples aplicaciones clínicas y biomédicas, ya que permite identificar alteraciones en la composición bacteriana asociadas con diversas enfermedades metabólicas y gastrointestinales. Mediante herramientas bioinformáticas como Kraken2 y visualizadores como Krona es posible caracterizar los microorganismos presentes en el intestino y comparar diferencias entre individuos sanos y pacientes con distintas patologías.
+<p align="justify">El análisis taxonómico de la microbiota intestinal posee múltiples aplicaciones clínicas y biomédicas, ya que permite identificar alteraciones en la composición bacteriana asociadas con diversas enfermedades metabólicas y gastrointestinales. Mediante herramientas bioinformáticas como Kraken2 y visualizadores como Krona es posible caracterizar los microorganismos presentes en el intestino y comparar diferencias entre individuos sanos y pacientes con distintas patologías.</p>
 
-En enfermedades como obesidad y diabetes tipo 2, diversos estudios han reportado cambios en la abundancia relativa de bacterias pertenecientes a los filos Firmicutes y Bacteroidetes, los cuales pueden influir en procesos relacionados con metabolismo energético, inflamación y absorción de nutrientes. Asimismo, el estudio de la microbiota intestinal también tiene aplicaciones en enfermedades inflamatorias intestinales, evaluación del efecto de probióticos y prebióticos, nutrición personalizada y análisis de respuesta a tratamientos farmacológicos.
+<p align="justify">En enfermedades como obesidad y diabetes tipo 2, diversos estudios han reportado cambios en la abundancia relativa de bacterias pertenecientes a los filos Firmicutes y Bacteroidetes, los cuales pueden influir en procesos relacionados con metabolismo energético, inflamación y absorción de nutrientes. Asimismo, el estudio de la microbiota intestinal también tiene aplicaciones en enfermedades inflamatorias intestinales, evaluación del efecto de probióticos y prebióticos, nutrición personalizada y análisis de respuesta a tratamientos farmacológicos.</p>
 
-Estos enfoques contribuyen al desarrollo de estrategias de medicina personalizada y permiten comprender mejor la relación entre microbiota y salud humana. Sin embargo, debido a la influencia de factores como dieta, edad, ambiente y estilo de vida, es necesario realizar estudios con un mayor número de muestras para obtener conclusiones clínicas más robustas y representativas.
+<p align="justify">Estos enfoques contribuyen al desarrollo de estrategias de medicina personalizada y permiten comprender mejor la relación entre microbiota y salud humana. Sin embargo, debido a la influencia de factores como dieta, edad, ambiente y estilo de vida, es necesario realizar estudios con un mayor número de muestras para obtener conclusiones clínicas más robustas y representativas.</p>
 
 
 ## 6. Conclusiones  
 
-Se logró obtener y procesar secuencias 16S rRNA de un individuo normopeso y un individuo con obesidad provenientes de bases de datos públicas del NCBI, permitiendo desarrollar un flujo de trabajo bioinformático reproducible.
+<p align="justify">Se logró obtener y procesar secuencias 16S rRNA de un individuo normopeso y un individuo con obesidad provenientes de bases de datos públicas del NCBI, permitiendo desarrollar un flujo de trabajo bioinformático reproducible.</p>
 
-El análisis de calidad mediante FastQC y MultiQC mostró que ambas muestras presentaron lecturas de buena calidad, contenido GC estable y longitudes adecuadas para continuar con el análisis taxonómico.
+<p align="justify">El análisis de calidad mediante FastQC y MultiQC mostró que ambas muestras presentaron lecturas de buena calidad, contenido GC estable y longitudes adecuadas para continuar con el análisis taxonómico.</p>
 
-La herramienta fastp permitió realizar el filtrado y limpieza de las secuencias, optimizando los datos para posteriores análisis de microbiota intestinal.
+<p align="justify">La herramienta fastp permitió realizar el filtrado y limpieza de las secuencias, optimizando los datos para posteriores análisis de microbiota intestinal.</p>
 
-El análisis taxonómico realizado con Kraken2 y visualizado mediante Krona evidenció diferencias preliminares en la composición bacteriana entre el individuo sano y el individuo con obesidad.
+<p align="justify">El análisis taxonómico realizado con Kraken2 y visualizado mediante Krona evidenció diferencias preliminares en la composición bacteriana entre el individuo sano y el individuo con obesidad.</p>
 
-En ambas muestras predominaron bacterias pertenecientes a los filos Firmicutes y Bacteroidetes, grupos microbianos comúnmente asociados a la microbiota intestinal humana.
+<p align="justify">En ambas muestras predominaron bacterias pertenecientes a los filos Firmicutes y Bacteroidetes, grupos microbianos comúnmente asociados a la microbiota intestinal humana.</p>
 
-La integración de herramientas bioinformáticas como Galaxy, Kraken2 y Krona permitió fortalecer habilidades en análisis de datos ómicos y facilitó la interpretación biológica de comunidades microbianas intestinales.
+<p align="justify">La integración de herramientas bioinformáticas como Galaxy, Kraken2 y Krona permitió fortalecer habilidades en análisis de datos ómicos y facilitó la interpretación biológica de comunidades microbianas intestinales.</p>
 
 
 ## 7. Link de tutorial 
