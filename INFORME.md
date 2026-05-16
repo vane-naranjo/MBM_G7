@@ -1,4 +1,5 @@
 # MBM_G7
+Integrantes: Dylan Ron, Estefany Germán, Vanessa Terán, Vanesa Naranjo  
 
 ## Objetivo   
 Comparar la microbiota intestinal entre individuos obesos y normopeso mediante análisis de secuenciación 16S y determinar si existe diferencia significativa entre su microbiota.
