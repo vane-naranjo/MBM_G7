@@ -14,17 +14,20 @@ Además del objetivo principal de comparar la microbiota intestinal entre indivi
 
 ## 2. Metodología  
 ### 1. Obtención de datos  
-La datos se obtendrán a través de bases de datos públicas del NCBI de la secuenciación de la subunidad 16S de un individuo con normopeso y un individuo con sobrepeso.  
+La datos se obtendrán a través de bases de datos públicas del NCBI de la secuenciación de la subunidad 16S de un individuo con normopeso y un individuo con sobrepeso. 
+Secuencia de la persona sana: SRR37389193
+Secuencia de la persona obesa: SRR25916244
 ### 2. Almacenamiento de la información y control de calidad 
 Se utilizará la palataforma Galaxy para el procesamiento, análisis y visualización de los datos.
 Las secuencias obtenidas serán evaluadas mediante FastQC para verificar parámetros de calidad como longitud de lecturas, contenido GC y presencia de adaptadores.   
 ### 3. Procesamiento de secuencias  
 Las lecturas serán filtradas y limpiadas para eliminar secuencias de baja calidad y posibles contaminantes utilizando herramientas disponibles en Galaxy como FASTQC, MULTIQC Y FASTP.
+Se utilizó la plataforma Kraken 2 para la clasificación taxonómica de las secuencias a través de una base de datos de genomas de referencia. Finalmente para una mejor visualización se utilizó la herramienta Krona, que transformó los datos obtenidos en un gráfico circular multinivel. 
 ### 4. Comparación de microbiota  
 Se comparará la composición bacteriana entre el individuo normopeso y el individuo con sobrepeso, evaluando diferencias en abundancia y diversidad microbiana.
 ### 5. Visualización e interpretación biológica  
 Los resultados serán representados mediante gráficos y herramientas de visualización taxonómica. Finalmente, se realizará una interpretación biológica de las diferencias observadas en la microbiota intestinal.
-Las lecturas serán filtradas y limpiadas para eliminar secuencias de baja calidad y posibles contaminantes utilizando herramientas disponibles en Galaxy como FASTQC, MULTIQC, FASTP.
+
 ## 3. Resultados
 
 
