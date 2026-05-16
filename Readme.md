@@ -32,11 +32,11 @@ E --> F[Análisis diferencial]
 F --> G[Visualización]
 ```
 
-Descarga
+# **Descarga**
 
-QC
+# **QC**
 
-Análisis  
-Resultados  
-Resumen breve
+#**Análisis**  
+# **Resultados**  
+# **Resumen breve**
 
