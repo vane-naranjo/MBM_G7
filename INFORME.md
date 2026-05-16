@@ -84,6 +84,17 @@ Figura 7. Calidad por base de las secuencias evaluadas mediante FastQC_Contenido
 
 Figura 8. MultiQC con datos filtrados_individuo normopeso
 
+<img width="2968" height="1374" alt="image" src="https://github.com/user-attachments/assets/1c7975c8-42db-4b73-b559-bd6c5d1c3646" />
+
+Figura 9. Reporte taxonómico generado mediante Kraken2 para la muestra del individuo normopeso.
+Se observa la clasificación taxonómica de bacterias presentes en la microbiota intestinal a diferentes niveles taxonómicos.
+
+
+<img width="2890" height="1468" alt="image" src="https://github.com/user-attachments/assets/6cd9f2b2-42ac-42a8-b3c3-074b40058b7c" />
+
+Figura 10.Visualización taxonómica de la microbiota intestinal del individuo normopeso mediante Krona.
+El gráfico circular interactivo muestra la abundancia relativa de los principales grupos bacterianos identificados a partir de las secuencias 16S rRNA analizadas con Kraken2.
+
 ## 4. Discusión 
 
 El análisis preliminar realizado sobre las muestras SRR37389193 y SRR25916244, tanto para el individuo sano com opara el obeso mediante FastQC y MultiQC mostró que las secuencias presentan una calidad alta y estable a lo largo de las lecturas, con valores Phred cercanos a 30 y una longitud promedio aproximada de 301 pb y 149.7 Mbp. Además, el contenido GC se mantuvo en 51% en ambos casos,, valor esperado para comunidades bacterianas intestinales analizadas mediante secuenciación 16S.  El uso de secuencias 16S permite utilizar cebadores universales ya que son regiones conservadas, por lo que funcionan como marcadores moleculares para la identificación de especies bacterianas.  
